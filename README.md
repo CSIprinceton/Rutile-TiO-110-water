@@ -11,4 +11,4 @@ Within this repository you will find:
 
 If you use this training data, please read and cite:
 
-Wen, B., Calegari Andrade, M.F., Min, L. and Selloni, A. (2022) To be submitted.
+Bo Wen, Marcos F. Calegari Andrade, Li-Min Liu and Annabella Selloni (2022) To be submitted.
